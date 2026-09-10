@@ -1,8 +1,8 @@
 class Edda < Formula
   desc "Decision memory for coding agents"
   homepage "https://github.com/fagemx/edda"
-  url "https://static.crates.io/crates/edda/edda-0.6.0.crate"
-  sha256 "c38adcadddc25f5468631f82a10f83290a1683ad898cb02d5758d087432b4f5d"
+  url "https://static.crates.io/crates/edda/edda-0.6.1.crate"
+  sha256 "110682247358c5459ac41522f3f7fc58e8dbf237ef1b4abb1991df8ed7e78e70"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on "pkgconf" => :build
